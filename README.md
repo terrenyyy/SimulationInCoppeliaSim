@@ -1,1 +1,1 @@
-# SimulationInCoppeliaSim
+# Simulações robóticas utilizando o CoppeliaSim
